@@ -11,7 +11,7 @@ has_children: true
 
 Congratulations! If you made it until this point you learned nearly everything you need to write simple programs with the Java programming language. With the things we discussed so far - variables, if statements and loops - you can solve the majority of problems and programming tasks.
 
-But as you hopefully learned from us, programming is not just giving instructions to a computer to tell it what it shall do! Otherwise we could type zeros and ones into the keyboard and the computer would still understand what it shall do (if we did it correctly)! A higher programming language like java has as main purpuse that we - the programmers - can express what the computer shall do in a way which is easily understandable for other people (collegues, friends, teachers, whoeverwants to read our code and even our future self). We should keep this in mind and write our programs in a way that it is easily understandable for other people or ourself.
+But as you hopefully learned from us, programming is not just giving instructions to a computer to tell it what it shall do! Otherwise we could type zeros and ones into the keyboard and the computer would still understand what it shall do (if we did it correctly)! A higher programming language like Java has as main purpose that we - the programmers - can express what the computer shall do in a way which is easily understandable for other people (colleagues, friends, teachers, whoever wants to read our code and even our future chef). We should keep this in mind and write our programs in a way that it is easily understandable for other people or ourselves.
 
 That is also the reason why we should try to use speaking names for our variables.
 
