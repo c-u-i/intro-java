@@ -42,7 +42,7 @@ So in the end, it should print
 ```bash
 Hello A, B, C!
 ```
-where _A_,_B_,_C_ would be the names of the group members!
+where _A_,_B_,_C_ would be names of the group members!
 
 Note: if you change the program you might break it (so that it won't run).
 
