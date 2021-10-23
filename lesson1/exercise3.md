@@ -147,7 +147,7 @@ class Test {
 }
 ```
 
-As you can see we have two classes which each contain two methods.
+As you can see we have two classes that each contains two methods.
 
 If we run our program, it will print out _Hello World from Main.main!_.
 
@@ -170,7 +170,7 @@ Main.class  Main.java  Test.class
 
 Now we see two new files as a result of the compiling.
 
-So far we said, that the compiler takes our source code file and creates from it a new computer-readable file.
+So far we can say that the compiler takes our source code file and creates from it a new computer-readable file.
 
 However, as you can see, that was not fully true: the Java compiler creates a new computer-readable file for each class that we defined in our source code file!
 
