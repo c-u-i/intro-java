@@ -11,7 +11,7 @@ Complete the code for the following problem.
 ```java
 public static void main(String[] args) {
 
-   // There are 2 cake (one chocolate and one with raspberries).
+   // There are 2 cakes (one chocolate and one with raspberries).
    // Each cake can be cut into 8 pieces.
 
    int chocolatePieces = 8;
