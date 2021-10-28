@@ -142,7 +142,7 @@ public class Main {
             System.out.println("28 days");
           }
         } else {
-          System.out.println("Not a valid month, number should be bewteen 1 and 12");
+          System.out.println("Not a valid month, number should be between 1 and 12");
         }
     }
 }
