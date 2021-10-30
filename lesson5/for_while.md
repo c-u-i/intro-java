@@ -12,7 +12,7 @@ that is better fit for the task than the other. It's important to recognize when
 
 The general rule is:
 
-* Use `for` when the number of iterations _is_ know
+* Use `for` when the number of iterations _is_ known
 * Use `while` when the number of iterations _is not_ known
 
 _Known_ should be intended with the meaning _the number is known when the program runs, before it reaches the loop_,
